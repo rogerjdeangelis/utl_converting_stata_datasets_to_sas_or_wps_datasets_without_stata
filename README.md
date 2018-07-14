@@ -1,0 +1,2 @@
+# utl_coverting_stata_datasets_to_sas_or_wps_datasets_without_stata
+Coverting_stata_datasets_to_sas_or_wps_datasets_without_stata_open_source.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
